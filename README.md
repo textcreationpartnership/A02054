@@ -39,17 +39,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Heauen and earth reconcil'd A sermon preached at Saint Paules church in Bedford, October. 3. 1612. A
+
+1. To the right Honourable Lord HENRY Earle of Kent, Lord of Hastinge, Weisford, and Ruthyn.
+
 #####Body#####
 
-1. THE SVBIECT.
+1. Heauen and Earth Reconcil'd.
 
-1. PRAEDICATE.
+    _ THE SVBIECT.
 
-1. COPVLATIVES.
+    _ PRAEDICATE.
+
+    _ COPVLATIVES.
 
 #####Back#####
-Heauen and earth reconcil'd A sermon preached at Saint Paules church in Bedford, October. 3. 1612. A
+Imprinted at London by W.W. for Clement Knight, and are to be sold at his shoppe in Pauls Church-yar
 **Types of content**
 
   * There are 11 **verse** lines!
